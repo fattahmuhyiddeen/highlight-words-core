@@ -24,7 +24,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "github.com/bvaughn/highlight-words-core.git"
+    "url": "github.com/fattahmuhyiddeen/highlight-words-core.git"
   },
   "standard": {
     "parser": "babel-eslint",
